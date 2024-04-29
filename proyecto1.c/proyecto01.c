@@ -5,6 +5,6 @@ int main() {
     printf("Hola mundo\n");
     printf("Hola mundo\n");
     printf("Hola mundo\n");
-    printf("Hola mundo\n");
+    printf("cambio\n");
     return 0;
 }
