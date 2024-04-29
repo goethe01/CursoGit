@@ -11,3 +11,4 @@ listaspares =[2,4,6,8,10]
 listaimpares = [1,3,5,7,9]
 lista_sumada =sumarlistas(listaspares,listaimpares)
 print(dividirlista(lista_sumada))
+print("nuevo")
